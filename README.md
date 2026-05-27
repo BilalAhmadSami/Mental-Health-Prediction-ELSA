@@ -152,5 +152,5 @@ Recommended run order: Run ELSA_Data_Analysis_Annotated.ipynb first to understan
 ## Author
 
 **Bilal Ahmad Sami**
-MSc Data Science
-GitHub: https://github.com/BilalAhmadSami
+MSc Artificial Intelligence
+
